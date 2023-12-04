@@ -1,1 +1,1 @@
-# Kanna-Kamui
+ [Here](https://heroku.com/deploy)
